@@ -24,9 +24,9 @@ This highlights how important upstream accuracy is, and how later stages in the 
 In addition, early analysis of workforce conditions suggests that repetitive tasks, physical strain, and communication gaps may contribute to higher attrition, creating a cycle where increased workload leads to further turnover.
 
 ### Deliverables
-- [Workforce Structure Table]()
-- [Role Map Visualization]()
-- [Briefing Note]()
+- [Workforce Structure Table](Weekly_Mini_Projects/Week-01-Understanding-The-Operational-Challenge/data/Workforce Structure - Template.csv)
+- [Role Map Visualization](https://claude.ai/public/artifacts/26f7b34e-65eb-4b9d-a1b5-149397487028)
+- [Briefing Note](./Weekly_Mini_Projects/Week-01-Understanding-The-Operational-Challenge/deliverable(s)/Briefing Note.pdf)
 
 ### Reflection Connection
 This week shifted how I think about operations. Rather than viewing workflows as simple step-by-step processes, I started to see them as interconnected systems where decisions in one role directly impact outcomes in another.
