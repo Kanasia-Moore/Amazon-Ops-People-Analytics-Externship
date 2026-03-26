@@ -3,13 +3,13 @@
 ### Overview
 This week focused on building a foundational understanding of how roles are structured within a fulfillment center and how work flows across those roles.
 
-To understand this, I created a workforce structure table outlining key roles, their responsibilities, and how they connect within the broader operation. I then translated that structure into a visual role map to better represent the workflow of the Amazon Fulfillment Center. 
+To do this, I created a workforce structure table outlining key roles, their responsibilities, and how they connect within the broader operation. I then translated that structure into a visual role map to better represent the workflow of the Amazon Fulfillment Center.
 
 ### What Was Done
 - Developed a workforce structure table to define roles and responsibilities  
 - Identified how each role contributes to the overall fulfillment process  
-- Created a visual role map to illustrate workflow and role relationships
-- Delivered a briefing note that explains the  
+- Created a visual role map to illustrate workflow and role relationships  
+- Produced a briefing note analyzing workforce challenges and attrition drivers  
 
 ### Key Questions Explored
 - Where in the fulfillment workflow are errors most likely to originate?  
@@ -21,7 +21,15 @@ One of the main takeaways from this week is that errors in fulfillment are often
 
 This highlights how important upstream accuracy is, and how later stages in the process often function more as detection rather than prevention.
 
-### Reflection
+In addition, early analysis of workforce conditions suggests that repetitive tasks, physical strain, and communication gaps may contribute to higher attrition, creating a cycle where increased workload leads to further turnover.
+
+### Deliverables
+- [Workforce Structure Table]()
+- [Role Map Visualization]()
+- [Briefing Note]()
+
+### Reflection Connection
 This week shifted how I think about operations. Rather than viewing workflows as simple step-by-step processes, I started to see them as interconnected systems where decisions in one role directly impact outcomes in another.
 
 More of this thinking is captured in the Week 01 [reflection](/Reflections/Week-01-Reflection.md).
+
