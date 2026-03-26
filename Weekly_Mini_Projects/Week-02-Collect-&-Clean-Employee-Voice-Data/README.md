@@ -16,8 +16,7 @@ To explore how employee sentiment reflects operational conditions and to identif
 
 ### Tools Used
 - Python  
-- Pandas  
-- Text processing / sentiment analysis techniques  
+- Pandas    
 
 ### Key Questions Explored
 - What themes consistently appear in employee feedback?  
