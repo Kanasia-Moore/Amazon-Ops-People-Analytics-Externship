@@ -43,3 +43,5 @@ The findings suggest that leadership and management practices play a critical ro
 
 ### Next Step
 In the next phase, I will connect operational structure and employee sentiment to further investigate how management flow and support systems contribute to attrition.
+
+[reflections](reflections/Week-02-Reflections.md)
