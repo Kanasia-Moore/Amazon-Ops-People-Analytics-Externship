@@ -39,9 +39,8 @@ These findings suggest that attrition may not be driven solely by the nature of 
 ### Connection to Week 01
 While Week 01 focused on operational structure and workflow, this week highlights how employees experience that structure.
 
-The findings suggest that leadership and management practices play a critical role in shaping both operational performance and employee retention.
+The findings suggest that leadership and management practices play a critical role in shaping both operational performance and employee retention. 
+See my full Week 02 reflection [here](reflections/Week-02-Reflections.md)
 
 ### Next Step
 In the next phase, I will connect operational structure and employee sentiment to further investigate how management flow and support systems contribute to attrition.
-
-[reflections](reflections/Week-02-Reflections.md)
