@@ -45,10 +45,10 @@ This project also highlighted the value of employee voice data as an early signa
 ---
 
 ### Deliverables
-- Raw and cleaned employee voice datasets (see `/data`)  
-- Python scripts for data collection and analysis (see `/python`)  
-- Exploratory notebooks and practice work (see `/notebooks`)  
-- Visualizations of sentiment and key themes (see `/visuals`)  
+- [Raw and cleaned employee voice datasets](./data)  
+- [Python scripts for data collection and analysis](./python)  
+- [Exploratory notebooks and practice work](./notebooks)  
+- [Visualizations of sentiment and key themes](./visuals)  
 
 ---
 
