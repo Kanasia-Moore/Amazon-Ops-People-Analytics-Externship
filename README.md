@@ -65,7 +65,7 @@ Each project section includes:
 
 ## Project Progression
 
-### [Project 1: Workforce Structure & Operational Mapping](./Mini_Projects/Project-01-Understanding-The-Operational-Challenge)
+### [Project 1: Workforce Structure & Operational Mapping](./Projects/Project-01-Understanding-The-Operational-Challenge)
 
 The first phase focused on understanding the structure of a fulfillment operation and how different roles support one another.
 
@@ -80,7 +80,7 @@ This phase helped me see how frontline work depends heavily on the quality of su
 
 ---
 
-### [Project 2: Employee Voice Data](./Mini_Projects/Project-02-Collect-&-Clean-Employee-Voice-Data)
+### [Project 2: Employee Voice Data](./Projects/Project-02-Collect-&-Clean-Employee-Voice-Data)
 
 The second phase focused on gathering and organizing employee voice data from public platforms such as YouTube and Glassdoor.
 
@@ -99,7 +99,7 @@ This phase reinforced the importance of structuring qualitative data carefully s
 
 ---
 
-### [Project 3: Text Cleaning & Sentiment Analysis](./Mini_Projects/Project-03-Sentiment-&-Keywords-From-Voice-Data)
+### [Project 3: Text Cleaning & Sentiment Analysis](./Projects/Project-03-Sentiment-&-Keywords-From-Voice-Data)
 
 The third phase focused on using Python to clean text data and conduct sentiment analysis.
 
