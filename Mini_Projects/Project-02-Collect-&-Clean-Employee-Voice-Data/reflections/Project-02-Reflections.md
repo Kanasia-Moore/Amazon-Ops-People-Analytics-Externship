@@ -1,4 +1,4 @@
-## Week 02 Reflection
+## Project 02 Reflection
 
 This week shifted my perspective in a way I wasn’t expecting.
 
