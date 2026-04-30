@@ -42,7 +42,7 @@ Early analysis of workforce conditions also suggests that repetitive tasks, phys
 ---
 
 ### Deliverables
-- [Workforce Structure Table](https://github.com/Kanasia-Moore/Amazon-Ops-People-Analytics-Externship/blob/91a49d9bc840c912d26924a3f75009f438c58579/Weekly_Mini_Projects/Week-01-Understanding-The-Operational-Challenge/data/Workforce%20Structure%20-%20Template.csv)
+- [Workforce Structure Table](/Projects/Project-01-Understanding-The-Operational-Challenge/data/Workforce_Structure.csv)
 - [Role Map Visualization](https://claude.ai/public/artifacts/26f7b34e-65eb-4b9d-a1b5-149397487028)
 - [Briefing Note](https://github.com/Kanasia-Moore/Amazon-Ops-People-Analytics-Externship/blob/91a49d9bc840c912d26924a3f75009f438c58579/Weekly_Mini_Projects/Week-01-Understanding-The-Operational-Challenge/deliverable(s)/Briefing%20Note.pdf)
 
