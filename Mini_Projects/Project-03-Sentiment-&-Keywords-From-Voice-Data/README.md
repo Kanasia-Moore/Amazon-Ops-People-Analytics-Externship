@@ -67,9 +67,9 @@ Additional insights included:
 This section stores polished project outputs connected to this phase of the analysis.
 
 - [Findings Summary PDF](./deliverables/project-3-findings-summary.pdf) *(to be added)*  
-- Cleaned datasets (see `/data/cleaned`)  
-- Python scripts for preprocessing and sentiment analysis (see `/python`)  
-- Visualizations of sentiment distribution and trends (see `/visuals`)  
+- [Cleaned datasets](./data/cleaned)  
+- [Python scripts for preprocessing and sentiment analysis](./python)  
+- [Visualizations of sentiment distribution and trends](./visuals)  
 
 ---
 
