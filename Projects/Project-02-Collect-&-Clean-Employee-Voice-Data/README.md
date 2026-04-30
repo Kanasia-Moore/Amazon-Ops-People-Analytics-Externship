@@ -65,7 +65,7 @@ Project 01 focused on operational structure and workflow. Project 02 shifts towa
 
 This project helped connect role design and workflow pressure to real employee concerns, especially around burnout, management support, and communication. It also reinforced that employee feedback is not just opinion-based; when structured carefully, it can become a useful source of operational insight.
 
-See my full Project 02 reflection [here](reflections/Week-02-Reflections.md).
+See my full Project 02 reflection [here](reflections/Project-02-Reflections.md).
 
 ---
 
